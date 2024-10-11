@@ -1,52 +1,52 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意变剧本，AI全助力。"
+    "solgan": "创意变现实，AI全助力。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "终极设计创作工作平台",
+      "description": "逐空间打造您的场景。使用我们直观的工具和协作功能，提升您的设计创作过程。",
       "cta": "START" 
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "设计需求档案生成器",
+        "description": "轻松创建详细的设计档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "设计创意",
+        "description": "使用强大的结构工具组织您的创意。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "空间编辑器",
+        "description": "精准编辑和完善您的空间场景。"
       },
       "aiTools": {
         "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "description": "利用AI驱动的建议提升您的创意。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "梦想家",
+        "content": "ScriptCraft彻底改变了我的设计过程。需求档案生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "包打听",
+        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个设计瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "老法师",
+        "content": "AI辅助工具帮助我无数次克服了制作障碍。强烈推荐！"
       }
     },
     "Header": {
@@ -67,21 +67,21 @@
       "tutorials": "教程",
       "contact": "联系我们",
       "email": "support@scriptcraft.com",
-      "address1": "123 编剧大道",
-      "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "address1": "72-107 远洋天地",
+      "address2": "八里庄西里1号 北京 102300",
+      "cta": "今天开始您的创意之旅",
       "startFreeTrial": "开始免费试用",
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "场景by场景，精心打造您的创意故事",
       "imageAlt": "ScriptCraft界面"
     }
   },
   "Dashboard": {
     "title": "仪表板",
     "productName": "ScriptCraft",
-    "welcome": "欢迎使用AI小说助手",
+    "welcome": "欢迎使用AI创意助手",
     "selectFeature": "请从侧边栏选择一个功能以开始。",
     "oneLiner": "一句话故事",
     "marketResearch": "市场调研",
